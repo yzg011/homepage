@@ -8,9 +8,9 @@
   },
   author: {
     name: 'Saimen', //你的名称
-    avatar: '/img/1.png', //你的头像
+    avatar: 'https://img.131213.xyz/tfile/BQACAgUAAx0Eflp52gABASoGagROrYjKvhiuNs6FoVSVGXPVyZoAAnYfAAKWzCBUC2AlnrHr6z47BA', //你的头像
     intro: '你好，欢迎来到我的博客主页', //你的简介
-    aiPortrait: '/img/1.png', //你的画像
+    aiPortrait: 'https://img.131213.xyz/tfile/BQACAgUAAx0Eflp52gABASoGagROrYjKvhiuNs6FoVSVGXPVyZoAAnYfAAKWzCBUC2AlnrHr6z47BA', //你的画像
     mbti: 'INTP', //你的MBTI人格类型(影响到关于我页面)
     aboutMeintro: '读史可以明智,知古方能鉴今。喜欢读历史，一个十几年安防的老安防人，也会分享更多的安防知识。' //关于我的介绍
   },
