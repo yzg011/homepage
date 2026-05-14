@@ -1,7 +1,7 @@
 ﻿export default {
   site: {
     title: 'Saimen 的个人主页', //网站标题
-    icon: 'https://img.xscnet.cn//i/2026/04/11/69da42c41efd5.png', //网站图标
+    icon: 'https://img.131213.xyz/tfile/BQACAgUAAx0Eflp52gABASoGagROrYjKvhiuNs6FoVSVGXPVyZoAAnYfAAKWzCBUC2AlnrHr6z47BA', //网站图标
     background: 'https://img.xscnet.cn//i/2026/04/11/69da185da44e4.png', //网站背景
     useSpecialLightPalette: true, // 是否启用白天特殊配色
     useSpecialDarkPalette: false // 是否启用黑夜特殊配色
@@ -27,10 +27,10 @@
     randomCoverApi: 'https://rand.xscnet.cn/mix' //随机封面API（可选，文章列表会使用这个接口获取随机封面图）
   },
   github: {
-    useGithubApi: false, // 是否使用 GitHub API 获取项目（如果为 false，则只显示 manualRepos 中的项目）
+    useGithubApi: true, // 是否使用 GitHub API 获取项目（如果为 false，则只显示 manualRepos 中的项目）
     username: 'yzg011', // GitHub 用户名
-    maxRepos: 0, // 最大显示仓库数量
-    excludeForks: true,  // 是否排除 Fork 的仓库
+    maxRepos: 1, // 最大显示仓库数量
+    excludeForks: false,  // 是否排除 Fork 的仓库
 
     // API 模式下：按仓库名称匹配封面
     covers: {
@@ -54,6 +54,7 @@
     ]
   },
   socials: [ //社交链接
+    { name: '微信', label: '联系作者', icon: 'https://img.131213.xyz/tfile/BQACAgUAAx0Eflp52gABASoHagUurs-zuF7pwusOBzeJTzvoAAEYAAIUHQAClswoVB6Rf1419YfsOwQ', url: 'https://work.weixin.qq.com/kfid/kfc90518b0eacba59c3' },
     { name: 'GitHub', label: 'Open Source', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/github-line.svg', url: 'https://github.com/yzg011/' },
     // { name: 'X', label: 'Daily Life', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/twitter-x-line.svg', url: 'https://x.com/Cqmoyuan/' },
     { name: 'Bilibili', label: 'Videos', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/bilibili-line.svg', url: 'https://space.bilibili.com/589691048' },
