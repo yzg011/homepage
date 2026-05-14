@@ -27,7 +27,7 @@
     randomCoverApi: 'https://rand.xscnet.cn/mix' //随机封面API（可选，文章列表会使用这个接口获取随机封面图）
   },
   github: {
-    useGithubApi: true, // 是否使用 GitHub API 获取项目（如果为 false，则只显示 manualRepos 中的项目）
+    useGithubApi: false, // 是否使用 GitHub API 获取项目（如果为 false，则只显示 manualRepos 中的项目）
     username: 'yzg011', // GitHub 用户名
     maxRepos: 1, // 最大显示仓库数量
     excludeForks: false,  // 是否排除 Fork 的仓库
@@ -43,14 +43,14 @@
 
     // 非 API 模式下：手动维护项目（不会显示 Star）
     manualRepos: [
-      // {
-      //   name: 'My Awesome Project',
-      //   url: 'https://github.com/your-name/your-repo',
-      //   description: '项目简介',
-      //   language: 'JavaScript',
-      //   visibility: 'public',
-      //   cover: 'https://example.com/cover.jpg'
-      // }
+      {
+        name: '我的主页项目',
+        url: 'https://github.com/yzg011/homepage',
+        description: '首页 /社交链接卡片/GitHub 项目展示（可选择 API 模式 / 手动模式）/RSS 博客文章拉取与展示/全局配置化（main.config.js）',
+        language: 'Vue',
+        visibility: 'public',
+        // cover: 'https://example.com/cover.jpg'
+      }
     ]
   },
   socials: [ //社交链接
