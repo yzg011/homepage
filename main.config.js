@@ -65,17 +65,17 @@
   footer: {
     icp: '粤0041220-2', //ICP备案号
     copyright: '© 2026 saimen. All rights reserved.', //版权信息
-    email: 'Mete0r_xsc@hotmail.com', //联系邮箱
+    email: '357239268@qq.com', //联系邮箱
     links: [ //页脚右下角链接，可不写icon
       {
         name: 'Email',
         icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/mail-line.svg',
-        url: 'mailto:Mete0r_xsc@hotmail.com'
+        url: 'mailto:357239268@qq.com'
       },
       {
         name: 'GitHub',
         icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/github-line.svg',
-        url: 'https://github.com/mete0rxsc/minimal-homepage'
+        url: 'https://github.com/yzg011/homepage'
       }
     ]
   }
