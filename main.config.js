@@ -17,7 +17,7 @@
   navLinks: [ //导航栏
     { name: '首页', url: '/' },
     { name: '社交', url: '#socials' },
-    // { name: '项目', url: '#projects' },
+    { name: '项目', url: '#projects' },
     { name: '文章', url: '#articles' },
     { name: '关于我', url: '/about' }
   ],
