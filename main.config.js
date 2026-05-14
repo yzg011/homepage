@@ -56,7 +56,7 @@
   socials: [ //社交链接
     { name: '微信', label: '联系作者', icon: 'https://img.131213.xyz/tfile/BQACAgUAAx0Eflp52gABASoHagUurs-zuF7pwusOBzeJTzvoAAEYAAIUHQAClswoVB6Rf1419YfsOwQ', url: 'https://work.weixin.qq.com/kfid/kfc90518b0eacba59c3' },
     { name: 'GitHub', label: 'Open Source', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/github-line.svg', url: 'https://github.com/yzg011/' },
-    // { name: 'X', label: 'Daily Life', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/twitter-x-line.svg', url: 'https://x.com/Cqmoyuan/' },
+    { name: '博客', label: '另一博客', icon: 'https://img.131213.xyz/tfile/BQACAgUAAx0Eflp52gABASoIagVgdANtywPVHVC-jHR6V3-T3JMAAqwdAAKWzChUeJYMlTwL3Lo7BA', url: 'https://blog.z2m.store' },
     { name: 'Bilibili', label: 'Videos', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/bilibili-line.svg', url: 'https://space.bilibili.com/589691048' },
     // { name: '163Music', label: 'Music', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/MdiMusicClefTreble.svg', url: 'https://music.163.com/#/artist?id=95704903' },
     { name: 'Email', label: 'Contact Me', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/mail-line.svg', url: 'mailto:357239268@qq.com' },
