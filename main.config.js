@@ -49,22 +49,22 @@
         description: '首页 /社交链接卡片/GitHub 项目展示（可选择 API 模式 / 手动模式）/RSS 博客文章拉取与展示/全局配置化（main.config.js）',
         language: 'Vue',
         visibility: 'public',
-        // cover: 'https://example.com/cover.jpg'
+        cover: 'https://img.z2m.store/file/bg/1778891370759_1.jpg'
       }
     ]
   },
   socials: [ //社交链接
-    { name: '微信', label: '联系作者', icon: 'https://img.131213.xyz/tfile/BQACAgUAAx0Eflp52gABASoHagUurs-zuF7pwusOBzeJTzvoAAEYAAIUHQAClswoVB6Rf1419YfsOwQ', url: 'https://work.weixin.qq.com/kfid/kfc90518b0eacba59c3' },
+    { name: '微信', label: '联系作者', icon: 'https://img.z2m.store/file/public/1779442274696_wx238631.png', url: 'https://work.weixin.qq.com/kfid/kfc90518b0eacba59c3' },
     { name: 'GitHub', label: 'Open Source', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/github-line.svg', url: 'https://github.com/yzg011/' },
-    { name: '博客', label: '另一博客', icon: 'https://img.131213.xyz/tfile/BQACAgUAAx0Eflp52gABASoIagVgdANtywPVHVC-jHR6V3-T3JMAAqwdAAKWzChUeJYMlTwL3Lo7BA', url: 'https://blog.z2m.store' },
+    { name: '博客', label: '另一博客', icon: 'https://img.z2m.store/file/public/1779443451063_blog.png', url: 'https://blog.z2m.store' },
     { name: 'Bilibili', label: 'Videos', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/bilibili-line.svg', url: 'https://space.bilibili.com/589691048' },
     // { name: '163Music', label: 'Music', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/MdiMusicClefTreble.svg', url: 'https://music.163.com/#/artist?id=95704903' },
-    { name: 'Email', label: 'Contact Me', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/mail-line.svg', url: 'mailto:357239268@qq.com' },
+    { name: 'Notebook', label: '我的笔记', icon: 'https://img.z2m.store/file/public/1779442139603_bj.png', url: 'https://bj.z2m.store' },
     // { name: 'Youtube', label: 'Community', icon: 'https://res.xscnet.cn/BlogStatic/Icon/svg/LineMdYoutubeFilled.svg', url: 'https://www.youtube.com/@Mete0r7023' }
   ],
   footer: {
     icp: '粤0041220-2', //ICP备案号
-    copyright: '© 2026 saimen. All rights reserved.', //版权信息
+    copyright: '© 2026 Saimen. All rights reserved.', //版权信息
     email: '357239268@qq.com', //联系邮箱
     links: [ //页脚右下角链接，可不写icon
       {
