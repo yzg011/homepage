@@ -49,7 +49,7 @@
         description: '首页 /社交链接卡片/GitHub 项目展示（可选择 API 模式 / 手动模式）/RSS 博客文章拉取与展示/全局配置化（main.config.js）',
         language: 'Vue',
         visibility: 'public',
-        cover: 'https://img.z2m.store/file/bg/1778891370759_1.jpg'
+        cover: 'https://img.z2m.store/random?type=img&dir=bg&orientation=auto'
       }
     ]
   },
